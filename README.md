@@ -1,0 +1,2 @@
+# Game-of-Throne
+This project focuses on the factors that will impact the probability of a character in <Game of Throne> will be alive at the end of the book. In total of twenty-five independent variables were given for analysing their impact on the variable or ‘isAlive’, meaning whether he or she is still alive at the end of the book. Our mission is to come up with an Optimal Prediction Model which can be used to predict whether or not a character can live till the end of the book when we possess all other needed information about this character.
